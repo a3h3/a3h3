@@ -1,6 +1,6 @@
 ## Hello 👋
 I am **Self taught web developer**
 
-- 🗃️ Working on multiple frontend and backend project using javaScript and Nodejs
+- 🗃️ Working on multiple frontend and backend project using javaScript and PHP
 - 🎯 I love writing code and designing websites, and I am aware of everything new in this field
 
