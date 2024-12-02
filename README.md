@@ -15,7 +15,8 @@ src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the
 
 <p align="left">
 
-<pre>
+<div class="">
+
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -33,7 +34,7 @@ src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 
-</pre>
+</div>
 
 ### Socials
 
