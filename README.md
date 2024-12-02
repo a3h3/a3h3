@@ -9,7 +9,9 @@
 - 🚀  I'm currently working on [Personal website](https://a3h3.github.io/ahmed_yasser/)
 - 🤝  I'm open to collaborating on webdesign and development related projects.
 
-<p align="center">
+</br>
+
+<p align="left">
 <a href="https://x.com/Ahmed550981/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"/>
 </a>
@@ -27,10 +29,13 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 
 
 </p>
+
+</br>
 
 ### Socials
 
@@ -51,10 +56,8 @@
 
 </p>
 
+</br>
+
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/a3h3"><img src="https://github-readme-stats.vercel.app/api?username=a3h3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="a3h3's GitHub stats" /></a>
-
-<a href="http://www.github.com/a3h3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=a3h3&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
