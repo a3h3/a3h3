@@ -1,15 +1,21 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed.
+<p align="center">
+  # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed.
+</p>
 
+<p align="center">
 ## Front_End developer & designer
+</p>
 
 - 🌍  I'm based in Feni, Bangladesh
 - ✉️  You can contact me at [ahmedyasser8335@gmail.com](mailto:ahmedyasser8335@gmail.com)
 - 🚀  I'm currently working on [Personal website](https://a3h3.github.io/ahmed_yasser/)
 - 🤝  I'm open to collaborating on webdesign and development related projects.
 
-<a href="https://x.com/Ahmed550981/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
-/></a>
+<p align="center">
+<a href="https://x.com/Ahmed550981/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"/>
+</a>
+</p>
 
 ### Skills
 
