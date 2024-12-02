@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the
 
 ### Skills
 
-<p align="center" display="flex">
+<p align="center" display="flex" gap="1rem">
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 
