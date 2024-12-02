@@ -2,7 +2,7 @@
 
 ## Front_End developer & designer
 
-- 🌍  I'm based in Feni, Bangladesh
+- 🌍  I'm an Egyptian who lives in Egypt, specifically Kafr El-Sheikh Governorate
 - ✉️  You can contact me at [ahmedyasser8335@gmail.com](mailto:ahmedyasser8335@gmail.com)
 - 🚀  I'm currently working on [Personal website](https://a3h3.github.io/ahmed_yasser/)
 - 🤝  I'm open to collaborating on webdesign and development related projects.
